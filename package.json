@@ -1,0 +1,28 @@
+{
+  "private": true,
+  "name": "nomic.tv",
+  "version": "0.0.1",
+  "description": "Initial release of nomic.tv.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/areljannC/nomic.tv.git"
+  },
+  "author": {
+    "name": "AJ Clemente",
+    "email": "areljann.c@gmail.com",
+    "url": "https://ajclemente.ca/"
+  },
+  "contributors": [
+    {
+      "name": "Francis Hernandez",
+      "email": "francishernandz@gmail.com"
+    }
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/areljannC/nomic.tv/issues"
+  }
+}
